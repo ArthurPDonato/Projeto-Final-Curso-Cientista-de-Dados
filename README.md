@@ -8,4 +8,6 @@
 
 - A expectativa do contratante é baixar a taxa de inadimplência para 25%.
 
-- O banco de dados possui  
+- O banco de dados possui 1000 linhas e 20 colunas.
+
+- A coluna IDCREDITO foi removida por ser apenas um indicador de cada transação.
